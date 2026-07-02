@@ -250,5 +250,5 @@ This is managed through the `.gitignore` file.
 
 **Jeet Zala**
 
-AWS Cloud Portfolio Project 6 – Terraform Infrastructure Deployment
+AWS Cloud Portfolio Project – Terraform Infrastructure Deployment
 
